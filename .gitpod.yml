@@ -1,0 +1,5 @@
+image:
+  file: .gitpod.Dockerfile
+vscode:
+  extensions:
+    - giltho.comby-vscode@0.0.1:bVPCE8D9ZLgC4jqWaftxsQ==
